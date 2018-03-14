@@ -1,0 +1,1 @@
+window.onload = console.log.bind(console.log, 'site initialized')
